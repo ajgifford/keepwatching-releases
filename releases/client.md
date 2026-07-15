@@ -1,6 +1,6 @@
 # Client Release Notes
 
-## Pre-release — 2026-07-15
+## v1.0.0 — 2026-07-15
 
 - Multi-profile accounts with profile pictures, accent colors, and PWA install support
 - Show/movie tracking with a show → season → episode watch-status hierarchy, bulk mark-watched, rewatch tracking, skip handling, and prior-watch date correction for content watched before account creation

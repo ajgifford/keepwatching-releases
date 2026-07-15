@@ -1,6 +1,6 @@
 # API Server Release Notes
 
-## Pre-release — 2026-07-15
+## v1.0.0 — 2026-07-15
 
 - REST API for accounts, profiles, shows, movies, seasons, and episodes, with cascading watch-status updates (show → season → episode) backed by MySQL
 - Layered architecture refactored over time into routes → controllers → services → DB-access modules, now built on the shared `keepwatching-common-server` package
