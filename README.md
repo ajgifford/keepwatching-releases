@@ -18,6 +18,15 @@ Human-readable, per-app changelogs — one entry per new version actually deploy
 - [API Server](./releases/api-server.md)
 - [Admin Server](./releases/admin-server.md)
 
+## Packages
+
+`keepwatching-types`, `keepwatching-common-server`, and `keepwatching-ui` are versioned,
+tagged, and published independently (see [Versioning & Deployment Log](./deployment/versioning-and-deployment-log.md)).
+Their release notes live on each package's own GitHub Releases page, not here:
+
+- [types](https://github.com/ajgifford/keepwatching-types/releases)
+- [common-server](https://github.com/ajgifford/keepwatching-common-server/releases)
+- [ui](https://github.com/ajgifford/keepwatching-ui/releases)
 
 ## Deployments
 

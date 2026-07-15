@@ -59,7 +59,17 @@ tag namespacing needed since they're separate GitHub repos.
 `@ajgifford/keepwatching-ui` are versioned and tagged independently — those repos
 already have a mature `publish.yml` GitHub Action that fires on `v*.*.*` tag
 pushes, builds, publishes to GitHub Package Registry, and cuts a GitHub Release.
-Nothing about that changes here.
+
+Each of those workflows generates its own release-notes body — a flat bullet
+list from `git log --no-merges` between the previous tag and the new one
+(same style as the deploy scripts below), with the version-bump commit itself
+filtered out. That custom body is prepended to GitHub's own auto-generated
+notes (`generate_release_notes: true`), so the Release page shows the bullet
+list followed by GitHub's "Full Changelog: vX...vY" compare link. Unlike the
+4 apps, these release notes live on each package's own GitHub Releases page,
+not in this repo — see the [Packages section of the README](../README.md#packages)
+for links. This repo has no push access to those 3 package repos and doesn't
+need any — the whole thing runs inside each package's own Actions job.
 
 What deploy-time logging adds is traceability from the consumer side: each app's
 row in `deployment-log.md` records which version of `types` (and `ui` or
