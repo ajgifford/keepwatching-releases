@@ -68,27 +68,27 @@ tied to any individual historical deploy above):
 
 ## Admin Dashboard
 
-| Date/Time           | Version | Tag | Commit                                   | Commit Date | Branch | Deployed By | Type   | types | ui  | Notes |
-| ------------------- | ------- | --- | ---------------------------------------- | ----------- | ------ | ----------- | ------ | ----- | --- | ----- |
-| 2025-10-13          | —       | —   | b2771cc8f9ae5284b90563a476a2dffdcb0e5dc7 | —           | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-10-18          | —       | —   | b213de97612ba72e4b529a55e372fe45ce3b7aac | 2025-10-16  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-10-21          | —       | —   | 48703b518993da4ce298a25e0dbf56369bd610d7 | 2025-10-19  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-10-21          | —       | —   | da6a8f154ce8d628f2faa37d386bbd2a25991f4e | 2025-10-21  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-10-28          | —       | —   | 7399b62971b623eecffe275ff64b14b3c3722721 | 2025-10-28  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-11-16          | —       | —   | 38fe5906e764ca2707d0b6e468867e3413c41cfd | 2025-11-16  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-11-29          | —       | —   | f61f9b12b1db928418de76a91f746cf4ac16b64a | 2025-11-29  | main   | ajgifford   | deploy | —     | —   |       |
-| 2025-12-04          | —       | —   | 01464d3a87d29f34d587ab495a7939a5d688944c | 2025-12-04  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-01-19          | —       | —   | 67337253256550458f32bae8519d568c1a710334 | 2026-01-19  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-03-27          | —       | —   | 3449cbad4e52d0fa3ebc32660f84704297830326 | 2026-03-26  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-04-13          | —       | —   | 1cb281d0a274711c2652ce3b8096ee3993e57739 | 2026-04-13  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-04-23          | —       | —   | f556e8be7b23ba4f6c1cb125622905a4930af40a | 2026-04-23  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-05-12 12:15 pm | —       | —   | 825a887475ca8303944843b82efe1ff824f2743c | 2026-05-12  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-05-12 02:28 pm | —       | —   | 22ac6d64c8f82d60ee35e2cc9128f7ee4c74a05f | 2026-05-12  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-05-14 08:50 am | —       | —   | b70d1d997423964cdc092ee8c2b170d8758b6700 | 2026-05-14  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-06-18 05:15 pm | —       | —   | 49c4b9f0e1096cfd4c3747fa678ee4aad7627910 | 2026-06-18  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-06-30 02:00 pm | —       | —   | fad6221034be65c58013c59abd611aeab6dec10e | 2026-06-30  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-07-01 03:30 pm | —       | —   | 8a2f9552f42716b78f77fc935268053b6ea3fc18 | 2026-07-01  | main   | ajgifford   | deploy | —     | —   |       |
-| 2026-07-15 10:24 AM | v1.0.0 | v1.0.0 | 6861ae270232a4936781c33ddb098603b43531f0 | 2026-07-14 | main   | ajgifford   | deploy | 0.16.1 | 0.7.0 |  |
+| Date/Time           | Version | Tag    | Commit                                   | Commit Date | Branch | Deployed By | Type   | types  | ui    | Notes |
+| ------------------- | ------- | ------ | ---------------------------------------- | ----------- | ------ | ----------- | ------ | ------ | ----- | ----- |
+| 2025-10-13          | —       | —      | b2771cc8f9ae5284b90563a476a2dffdcb0e5dc7 | —           | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-10-18          | —       | —      | b213de97612ba72e4b529a55e372fe45ce3b7aac | 2025-10-16  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-10-21          | —       | —      | 48703b518993da4ce298a25e0dbf56369bd610d7 | 2025-10-19  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-10-21          | —       | —      | da6a8f154ce8d628f2faa37d386bbd2a25991f4e | 2025-10-21  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-10-28          | —       | —      | 7399b62971b623eecffe275ff64b14b3c3722721 | 2025-10-28  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-11-16          | —       | —      | 38fe5906e764ca2707d0b6e468867e3413c41cfd | 2025-11-16  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-11-29          | —       | —      | f61f9b12b1db928418de76a91f746cf4ac16b64a | 2025-11-29  | main   | ajgifford   | deploy | —      | —     |       |
+| 2025-12-04          | —       | —      | 01464d3a87d29f34d587ab495a7939a5d688944c | 2025-12-04  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-01-19          | —       | —      | 67337253256550458f32bae8519d568c1a710334 | 2026-01-19  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-03-27          | —       | —      | 3449cbad4e52d0fa3ebc32660f84704297830326 | 2026-03-26  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-04-13          | —       | —      | 1cb281d0a274711c2652ce3b8096ee3993e57739 | 2026-04-13  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-04-23          | —       | —      | f556e8be7b23ba4f6c1cb125622905a4930af40a | 2026-04-23  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-05-12 12:15 pm | —       | —      | 825a887475ca8303944843b82efe1ff824f2743c | 2026-05-12  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-05-12 02:28 pm | —       | —      | 22ac6d64c8f82d60ee35e2cc9128f7ee4c74a05f | 2026-05-12  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-05-14 08:50 am | —       | —      | b70d1d997423964cdc092ee8c2b170d8758b6700 | 2026-05-14  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-06-18 05:15 pm | —       | —      | 49c4b9f0e1096cfd4c3747fa678ee4aad7627910 | 2026-06-18  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-06-30 02:00 pm | —       | —      | fad6221034be65c58013c59abd611aeab6dec10e | 2026-06-30  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-07-01 03:30 pm | —       | —      | 8a2f9552f42716b78f77fc935268053b6ea3fc18 | 2026-07-01  | main   | ajgifford   | deploy | —      | —     |       |
+| 2026-07-15 10:24 AM | v1.0.0  | v1.0.0 | 6861ae270232a4936781c33ddb098603b43531f0 | 2026-07-14  | main   | ajgifford   | deploy | 0.16.1 | 0.7.0 |       |
 
 ## API Server
 
@@ -136,35 +136,35 @@ tied to any individual historical deploy above):
 
 ## Admin Server
 
-| Date/Time           | Version | Tag | Commit                                   | Commit Date | Branch | Deployed By | Type   | types | common-server | Notes       |
-| ------------------- | ------- | --- | ---------------------------------------- | ----------- | ------ | ----------- | ------ | ----- | ------------- | ----------- |
-| 2025-06-30 11:24 am | —       | —   | 7451768b07ad4785cef578bcdf7b06c24ee2b704 | 2025-06-30  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-07-03 10:50 am | —       | —   | 4db67cd81a1810b2f4701531d4adc7ec786c6eda | 2025-07-02  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-07-03 01:35 pm | —       | —   | bc61ff31ecf8ebcd9c2a406119d73e69823123fb | 2025-07-03  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-07-03 01:58 pm | —       | —   | e69837617a1d93c523d57fe0d6362772af9ce343 | 2025-07-03  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-07-03 02:21 pm | —       | —   | 81242c9a4dc9cdde8d46a981f6148d7f971ec34f | 2025-07-09  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-07-28 10:40 am | —       | —   | 1591e540e45dccdef67abd8adb56de0e6ffb14f6 | 2025-07-28  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-13 05:03 pm | —       | —   | 756bc806676f4c72dfedf258d9d9e18250f38ebc | 2025-10-13  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-14 08:49 am | —       | —   | 012cf14f3504d5f42460aa4b3e833743e55e475b | 2025-10-14  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-18 05:04 pm | —       | —   | 115ba01d2658e96acae1b4ec3bf5d4db79d7bad1 | 2025-10-18  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-21 04:15 pm | —       | —   | 4c899b58b497d42a44eaab0cbb67f25782994586 | 2025-10-20  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-22 03:20 pm | —       | —   | 973b2f23653aa0aece68bfbcf583e2eedcd117c4 | 2025-10-22  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-10-28 07:10 pm | —       | —   | 455318b522f71ec688f92d91701a0d498e31f467 | 2025-10-28  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-11-16 10:10 pm | —       | —   | 3388d75b376f91e51dd24df42ef0d282282cd567 | 2025-11-16  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-11-29 04:10 pm | —       | —   | 134f3096c2570d49e3c5bb2d174457f3260bfa6c | 2025-11-29  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-12-04 07:40 pm | —       | —   | 624c324b344d0489ec6546ef552c6aeab1adb44d | 2025-12-04  | main   | ajgifford   | deploy | —     | —             |             |
-| 2025-12-05 05:25 pm | —       | —   | d367662ab736e7b861ccc6a475caae322b1e41bd | 2025-12-05  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-01-03 10:40 pm | —       | —   | 98c2787b570b8e116f9bc1dca4d60b91425b94f0 | 2026-01-03  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-01-19 04:30 pm | —       | —   | b306b8f7a134f7b9ef06bc819fe23633681f7a82 | 2026-01-19  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-03-27 11:09 am | —       | —   | e3eb95b303a81a5856b84f2222aa41b49757b4a3 | 2026-03-26  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-04-13 10:36 pm | —       | —   | a3a2d91f640e264a6ea58077bacacfa8684670c4 | 2026-04-13  | main   | ajgifford   | failed | —     | —             | bad version |
-| 2026-04-13 11:06 pm | —       | —   | 53885e17a9e43297b44b9a35f08e078080227d26 | 2026-04-13  | main   | ajgifford   | failed | —     | —             | bad version |
-| 2026-04-13 11:30 pm | —       | —   | 4f77a5a76ee61c9450229709ea1daa36d79da93f | 2026-04-13  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-04-23 05:00 pm | —       | —   | 3483217eb07b56d531963ecfba68f089523de837 | 2026-04-23  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-05-12 11:50 am | —       | —   | 1af6d956ce2b6a634485f1d8d2bed4b746a83068 | 2026-05-12  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-05-12 02:28 pm | —       | —   | a343993c0666f1aa1d1f08b7dffb149e3a87fb5c | 2026-05-12  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-05-14 07:30 am | —       | —   | 92a04903f439ce9b12f5c0e15eacfb88ddd7bf64 | 2026-05-14  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-06-18 05:10 pm | —       | —   | 5fbb4cf0e899315c591a8d3caf3c3d73ef18bc41 | 2026-06-17  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-06-21 08:20 pm | —       | —   | 5ac3dafafd65751ed102c7f48ccddc0880d60904 | 2026-06-21  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-06-30 01:40 pm | —       | —   | c8caa01f92215f36c7ad2f47e3e0fd9df38e493e | 2026-06-30  | main   | ajgifford   | deploy | —     | —             |             |
-| 2026-07-15 10:00 AM | v1.0.0 | v1.0.0 | 22f73b93a5e174818ebf90415cde7475e700d03b | 2026-07-15 | main | ajgifford | deploy | 0.16.1 | 0.25.1 |  |
+| Date/Time           | Version | Tag    | Commit                                   | Commit Date | Branch | Deployed By | Type   | types  | common-server | Notes       |
+| ------------------- | ------- | ------ | ---------------------------------------- | ----------- | ------ | ----------- | ------ | ------ | ------------- | ----------- |
+| 2025-06-30 11:24 am | —       | —      | 7451768b07ad4785cef578bcdf7b06c24ee2b704 | 2025-06-30  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-07-03 10:50 am | —       | —      | 4db67cd81a1810b2f4701531d4adc7ec786c6eda | 2025-07-02  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-07-03 01:35 pm | —       | —      | bc61ff31ecf8ebcd9c2a406119d73e69823123fb | 2025-07-03  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-07-03 01:58 pm | —       | —      | e69837617a1d93c523d57fe0d6362772af9ce343 | 2025-07-03  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-07-03 02:21 pm | —       | —      | 81242c9a4dc9cdde8d46a981f6148d7f971ec34f | 2025-07-09  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-07-28 10:40 am | —       | —      | 1591e540e45dccdef67abd8adb56de0e6ffb14f6 | 2025-07-28  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-13 05:03 pm | —       | —      | 756bc806676f4c72dfedf258d9d9e18250f38ebc | 2025-10-13  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-14 08:49 am | —       | —      | 012cf14f3504d5f42460aa4b3e833743e55e475b | 2025-10-14  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-18 05:04 pm | —       | —      | 115ba01d2658e96acae1b4ec3bf5d4db79d7bad1 | 2025-10-18  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-21 04:15 pm | —       | —      | 4c899b58b497d42a44eaab0cbb67f25782994586 | 2025-10-20  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-22 03:20 pm | —       | —      | 973b2f23653aa0aece68bfbcf583e2eedcd117c4 | 2025-10-22  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-10-28 07:10 pm | —       | —      | 455318b522f71ec688f92d91701a0d498e31f467 | 2025-10-28  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-11-16 10:10 pm | —       | —      | 3388d75b376f91e51dd24df42ef0d282282cd567 | 2025-11-16  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-11-29 04:10 pm | —       | —      | 134f3096c2570d49e3c5bb2d174457f3260bfa6c | 2025-11-29  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-12-04 07:40 pm | —       | —      | 624c324b344d0489ec6546ef552c6aeab1adb44d | 2025-12-04  | main   | ajgifford   | deploy | —      | —             |             |
+| 2025-12-05 05:25 pm | —       | —      | d367662ab736e7b861ccc6a475caae322b1e41bd | 2025-12-05  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-01-03 10:40 pm | —       | —      | 98c2787b570b8e116f9bc1dca4d60b91425b94f0 | 2026-01-03  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-01-19 04:30 pm | —       | —      | b306b8f7a134f7b9ef06bc819fe23633681f7a82 | 2026-01-19  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-03-27 11:09 am | —       | —      | e3eb95b303a81a5856b84f2222aa41b49757b4a3 | 2026-03-26  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-04-13 10:36 pm | —       | —      | a3a2d91f640e264a6ea58077bacacfa8684670c4 | 2026-04-13  | main   | ajgifford   | failed | —      | —             | bad version |
+| 2026-04-13 11:06 pm | —       | —      | 53885e17a9e43297b44b9a35f08e078080227d26 | 2026-04-13  | main   | ajgifford   | failed | —      | —             | bad version |
+| 2026-04-13 11:30 pm | —       | —      | 4f77a5a76ee61c9450229709ea1daa36d79da93f | 2026-04-13  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-04-23 05:00 pm | —       | —      | 3483217eb07b56d531963ecfba68f089523de837 | 2026-04-23  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-05-12 11:50 am | —       | —      | 1af6d956ce2b6a634485f1d8d2bed4b746a83068 | 2026-05-12  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-05-12 02:28 pm | —       | —      | a343993c0666f1aa1d1f08b7dffb149e3a87fb5c | 2026-05-12  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-05-14 07:30 am | —       | —      | 92a04903f439ce9b12f5c0e15eacfb88ddd7bf64 | 2026-05-14  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-06-18 05:10 pm | —       | —      | 5fbb4cf0e899315c591a8d3caf3c3d73ef18bc41 | 2026-06-17  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-06-21 08:20 pm | —       | —      | 5ac3dafafd65751ed102c7f48ccddc0880d60904 | 2026-06-21  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-06-30 01:40 pm | —       | —      | c8caa01f92215f36c7ad2f47e3e0fd9df38e493e | 2026-06-30  | main   | ajgifford   | deploy | —      | —             |             |
+| 2026-07-15 10:00 AM | v1.0.0  | v1.0.0 | 22f73b93a5e174818ebf90415cde7475e700d03b | 2026-07-15  | main   | ajgifford   | deploy | 0.16.1 | 0.25.1        |             |

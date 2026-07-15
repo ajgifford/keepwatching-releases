@@ -1,6 +1,7 @@
 # Admin Server Release Notes
 
 ## v1.0.0 — 2026-07-15
+
 - REST API backing the admin dashboard for accounts, profiles, shows, movies, and people
 - Show/movie/people content management including bulk update-all and duplicate detection (episodes, seasons, credits) with cleanup endpoints
 - Notification management with filtering, sorting, and typed/dated notifications

@@ -1,6 +1,7 @@
 # Admin Dashboard Release Notes
 
 ## v1.0.0 — 2026-07-15
+
 - Account and profile management, including statistics dashboards, profile comparison, and email verification
 - Show/movie catalog management with detail pages, bulk update-all actions, and content filtering
 - People/cast browsing with duplicate-detection audit tools for credits, seasons, and episodes

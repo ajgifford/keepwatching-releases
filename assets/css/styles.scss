@@ -1,1 +1,35 @@
 @import "{{ site.theme }}";
+
+// The default Cayman theme caps .main-content at a narrow reading width,
+// which leaves the wide deployment-log tables mostly clipped and forces
+// scrolling of the whole page instead of just the table.
+.main-content {
+  max-width: 1600px;
+  width: 95%;
+}
+
+.main-content table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: 0.85rem;
+}
+
+.main-content table th,
+.main-content table td {
+  white-space: nowrap;
+  padding: 6px 10px;
+}
+
+// Notes (and any other free-text column) should wrap instead of forcing
+// the table wider than it needs to be.
+.main-content table th:last-child,
+.main-content table td:last-child {
+  white-space: normal;
+}
+
+.main-content table thead th {
+  position: sticky;
+  top: 0;
+  background-color: #f8f8f8;
+}
