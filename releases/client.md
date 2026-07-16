@@ -1,5 +1,9 @@
 # Client Release Notes
 
+## v1.0.1 — 2026-07-16
+- Resolve a critical security vulnerability with websocket-driver (f99ea7a)
+- Update the spacing on the navigation banner for small format screens (8d97304)
+
 ## v1.0.0 — 2026-07-15
 
 - Multi-profile accounts with profile pictures, accent colors, and PWA install support
