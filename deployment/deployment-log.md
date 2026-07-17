@@ -65,7 +65,7 @@ tied to any individual historical deploy above):
 | 2026-07-01 03:55 pm | —       | —   | a5e2d642b9668777404d958d954cc95a92ac0b07 | 2026-07-01  | main   | ajgifford   | deploy      | —     | —   |                                                            |
 | 2026-07-07 08:40 pm | —       | —   | e852d4383f33108b9f5dff58aab8d6d2c1f0243d | 2026-07-07  | main   | ajgifford   | deploy      | —     | —   |                                                            |
 | 2026-07-08 10:05 am | —       | —   | 8313c96eb970fa0033190da6c31359f59b1149f9 | 2026-07-08  | main   | ajgifford   | deploy      | —     | —   |                                                            |
-| 2026-07-15 03:35 pm | —       | —   | 4ea3312a8c3cc4adad5d2ac2bf8a51898581743a | 2026-07-15  | main   | ajgifford   | deploy      | 0.16.1 | 0.7.0 |                                                            |
+| 2026-07-15 03:35 pm | v1.0.0 | v1.0.0 | 4ea3312a8c3cc4adad5d2ac2bf8a51898581743a | 2026-07-15 | main | ajgifford | deploy | 0.16.1 | 0.7.0 |                                                            |
 | 2026-07-16 05:41 PM | v1.0.1 | v1.0.1 | f99ea7ac2ede88c27c3a0fabeff378be291e510e | 2026-07-16 | main | ajgifford | deploy | 0.16.1 | 0.7.0 |  |
 
 ## Admin Dashboard
@@ -136,7 +136,7 @@ tied to any individual historical deploy above):
 | 2026-06-30 03:07 pm | —       | —   | f9505b54b30fdc21b12e65bd15a4b502158df21a | 2026-06-30  | main   | ajgifford   | deploy | —     | —             |                                        |
 | 2026-07-01 03:15 pm | —       | —   | 2a8568d4c1d51e839a3bb66b03f6fc2b0015730c | 2026-07-01  | main   | ajgifford   | deploy | —     | —             |                                        |
 | 2026-07-07 08:35 pm | —       | —   | 90c59a12b9baae208e566d8fac8d69d037201008 | 2026-07-07  | main   | ajgifford   | deploy | —     | —             |                                        |
-| 2026-07-15 03:10 pm | —       | —   | 07baa49d5a66a55d4e1bc6981011bee715070c88 | 2026-07-15  | main   | ajgifford   | deploy | 0.16.1 | 0.25.1       |                                        |
+| 2026-07-15 03:10 pm | v1.0.0  | v1.0.0 | 07baa49d5a66a55d4e1bc6981011bee715070c88 | 2026-07-15  | main   | ajgifford   | deploy | 0.16.1 | 0.25.1       |                                        |
 
 ## Admin Server
 
