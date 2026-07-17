@@ -2,7 +2,6 @@
 
 ## v1.0.2 — 2026-07-16
 - Resolve an issue where dates were incorrectly displaying the next day (2d3cb68)
-- Resolve an issue where dates where incorrectly displaying the next day (16dd11d)
 
 ## v1.0.1 — 2026-07-16
 - Resolve a critical security vulnerability with websocket-driver (f99ea7a)
