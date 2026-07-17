@@ -1,5 +1,11 @@
 # Admin Dashboard Release Notes
 
+## v1.1.0 — 2026-07-16
+- Update the package version for release (deb8e98)
+- Update the email management UI to better support templates; includes headers, footers and an email preview (af70eac)
+- Resolve a critical security vulnerability with websocket-driver (89a9f5f)
+- Update the deploy and rollback scripts to add release notes and set the deployer (b927e71)
+
 ## v1.0.0 — 2026-07-15
 
 - Account and profile management, including statistics dashboards, profile comparison, and email verification
