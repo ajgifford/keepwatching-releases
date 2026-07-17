@@ -1,5 +1,12 @@
 # Admin Server Release Notes
 
+## v1.1.0 — 2026-07-16
+- Update the package version for release (8809534)
+- Update email routes and controller for enhanced support for email templates (c907ab5)
+- Resolve a critical security vulnerability with websocket-driver (ee45437)
+- Correct formatting (868ebf5)
+- Update the deploy and rollback scripts to add release notes and set the deployer; rename the deploy script to match the other repos (81fac56)
+
 ## v1.0.0 — 2026-07-15
 
 - REST API backing the admin dashboard for accounts, profiles, shows, movies, and people
