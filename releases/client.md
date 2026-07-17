@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.0.3 — 2026-07-17
+- Update manage account layout to correctly position components for all screen sizes (149f394)
+
 ## v1.0.2 — 2026-07-16
 - Resolve an issue where dates were incorrectly displaying the next day (2d3cb68)
 
