@@ -1,5 +1,10 @@
 # Client Release Notes
 
+## v1.0.4 — 2026-07-24
+- Correct project configuration to be able to read version from the package.json (2323c5c)
+- Update dependencies for security vulnerabilities (5705f7f)
+- Add the current version to the footer (1ff7131)
+
 ## v1.0.3 — 2026-07-17
 - Update manage account layout to correctly position components for all screen sizes (149f394)
 
