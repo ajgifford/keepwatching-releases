@@ -1,5 +1,9 @@
 # Admin Server Release Notes
 
+## v1.2.0 — 2026-07-23
+- Update package version for release (a27fdca)
+- Add routes and controller to allow editing of watch date/time for content by an admin (83c8f55)
+
 ## v1.1.0 — 2026-07-16
 - Update the package version for release (8809534)
 - Update email routes and controller for enhanced support for email templates (c907ab5)
