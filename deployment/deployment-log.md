@@ -94,6 +94,7 @@ tied to any individual historical deploy above):
 | 2026-07-01 03:30 pm | —       | —      | 8a2f9552f42716b78f77fc935268053b6ea3fc18 | 2026-07-01  | main   | ajgifford   | deploy | —      | —     |       |
 | 2026-07-15 10:24 AM | v1.0.0  | v1.0.0 | 6861ae270232a4936781c33ddb098603b43531f0 | 2026-07-14  | main   | ajgifford   | deploy | 0.16.1 | 0.7.0 |       |
 | 2026-07-16 08:42 PM | v1.1.0 | v1.1.0 | deb8e981d0224b63cd7e6fcf7965106e0fd40f27 | 2026-07-16 | main | ajgifford | deploy | 0.17.0 | 0.7.0 |  |
+| 2026-07-24 09:13 AM | v1.2.0 | v1.2.0 | f31541a08d862a9ff8809839ec047ce413081ca5 | 2026-07-24 | main | ajgifford | deploy | 0.18.0 | 0.7.0 |  |
 
 ## API Server
 

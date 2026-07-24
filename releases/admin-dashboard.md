@@ -1,5 +1,10 @@
 # Admin Dashboard Release Notes
 
+## v1.2.0 — 2026-07-24
+- Correct dependency resolution for brace-expansion (f31541a)
+- Add UI to support a workflow allowing the admin to edit the watch date/time of content for a profile (654e69a)
+- Update dependencies to address security vulnerabilities (8359847)
+
 ## v1.1.0 — 2026-07-16
 - Update the package version for release (deb8e98)
 - Update the email management UI to better support templates; includes headers, footers and an email preview (af70eac)
