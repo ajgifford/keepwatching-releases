@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.1.1 — 2026-07-26
+- Update the show and movie controllers to return keepwatching content when transferring content to another profile (3ed8b25)
+
 ## v1.1.0 — 2026-07-26
 - Update dependencies for security vulnerabilities (29c89c5)
 - Update routes and controllers for content to allow watch history copying and moving and profile copying (cae45e0)
