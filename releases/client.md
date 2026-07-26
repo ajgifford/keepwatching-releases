@@ -1,5 +1,10 @@
 # Client Release Notes
 
+## v1.1.0 — 2026-07-26
+- v1.1.0 (d99bd05)
+- Switch from react-router-dom to react-router and update testing infrastructure (6df6589)
+- Add UI to support duplicating a profile an copying show watch history between profiles (c8b6461)
+
 ## v1.0.4 — 2026-07-24
 - Correct project configuration to be able to read version from the package.json (2323c5c)
 - Update dependencies for security vulnerabilities (5705f7f)
