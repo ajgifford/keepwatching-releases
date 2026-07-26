@@ -1,5 +1,9 @@
 # API Server Release Notes
 
+## v1.1.0 — 2026-07-26
+- Update dependencies for security vulnerabilities (29c89c5)
+- Update routes and controllers for content to allow watch history copying and moving and profile copying (cae45e0)
+
 ## v1.0.0 — 2026-07-15
 
 - REST API for accounts, profiles, shows, movies, seasons, and episodes, with cascading watch-status updates (show → season → episode) backed by MySQL
