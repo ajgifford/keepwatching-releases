@@ -1,5 +1,10 @@
 # Client Release Notes
 
+## v1.1.1 — 2026-07-26
+- Update the conditions under which the catch up card is displayed so that it doesn't display for a show that hasn't been watched (68d0e6f)
+- Update the profiles keepwatching content after transferring content (7599d50)
+- Handle additional test case condition in suppressing console messages (443f716)
+
 ## v1.1.0 — 2026-07-26
 - v1.1.0 (d99bd05)
 - Switch from react-router-dom to react-router and update testing infrastructure (6df6589)
