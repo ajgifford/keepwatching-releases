@@ -1,5 +1,9 @@
 # Admin Dashboard Release Notes
 
+## v1.3.0 — 2026-07-28
+- Update to react-router from react-router-dom (7cd6638)
+- Add a page to manage streaming services (cac9335)
+
 ## v1.2.1 — 2026-07-24
 - Correct project configuration to be able to read version from the package.json (2cb5d81)
 - Add the current version to the bottom of the navigation panel (4fd3bb8)
