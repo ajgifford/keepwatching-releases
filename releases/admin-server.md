@@ -1,5 +1,8 @@
 # Admin Server Release Notes
 
+## v1.3.0 — 2026-07-28
+- Add routes and controller for managing streaming services (cc08e90)
+
 ## v1.2.0 — 2026-07-23
 - Update package version for release (a27fdca)
 - Add routes and controller to allow editing of watch date/time for content by an admin (83c8f55)
