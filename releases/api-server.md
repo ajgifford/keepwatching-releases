@@ -1,5 +1,9 @@
 # API Server Release Notes
 
+## v1.2.0 — 2026-07-28
+- Update dependencies to support new preference type for watch tracking (99f1764)
+- Add routes and controller for retrieving streaming service information (a9beb3f)
+
 ## v1.1.1 — 2026-07-26
 - Update the show and movie controllers to return keepwatching content when transferring content to another profile (3ed8b25)
 

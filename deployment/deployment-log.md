@@ -147,6 +147,7 @@ tied to any individual historical deploy above):
 | 2026-07-15 03:10 pm | v1.0.0  | v1.0.0 | 07baa49d5a66a55d4e1bc6981011bee715070c88 | 2026-07-15  | main   | ajgifford   | deploy | 0.16.1 | 0.25.1       |                                        |
 | 2026-07-26 09:30 AM | v1.1.0 | v1.1.0 | 29c89c5c34b6692b670cdca233cc3d774964ecb7 | 2026-07-25 | main | ajgifford | deploy | 0.19.0 | 0.28.0 |  |
 | 2026-07-26 03:49 PM | v1.1.1 | v1.1.1 | 3ed8b25926782142e273cb0b4a73a771a58d615c | 2026-07-26 | main | ajgifford | deploy | 0.20.0 | 0.29.0 |  |
+| 2026-07-28 05:58 PM | v1.2.0 | v1.2.0 | 99f1764aedcabaf468b2fc5726f08689202e9a03 | 2026-07-28 | main | ajgifford | deploy | 0.22.0 | 0.31.0 |  |
 
 ## Admin Server
 
