@@ -1,5 +1,8 @@
 # Admin Dashboard Release Notes
 
+## v1.3.1 — 2026-07-28
+- Update the service worker when the browser tab is reloaded (42f759a)
+
 ## v1.3.0 — 2026-07-28
 - Update to react-router from react-router-dom (7cd6638)
 - Add a page to manage streaming services (cac9335)
