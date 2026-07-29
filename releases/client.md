@@ -1,5 +1,9 @@
 # Client Release Notes
 
+## v1.2.0 — 2026-07-28
+- Update how marking random episodes of a show is handled, useful for watching something like a game show out of order (ec9686d)
+- Remove the hard-coded services constants and instead retrieve them from the service layer (a0071b9)
+
 ## v1.1.1 — 2026-07-26
 - Update the conditions under which the catch up card is displayed so that it doesn't display for a show that hasn't been watched (68d0e6f)
 - Update the profiles keepwatching content after transferring content (7599d50)
