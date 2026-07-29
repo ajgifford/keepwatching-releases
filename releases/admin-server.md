@@ -1,5 +1,8 @@
 # Admin Server Release Notes
 
+## v1.4.0 — 2026-07-29
+- Add routes and controller to view account and profile activity and for managing deletions (3ed06f1)
+
 ## v1.3.0 — 2026-07-28
 - Add routes and controller for managing streaming services (cc08e90)
 
