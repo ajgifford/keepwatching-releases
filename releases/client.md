@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.2.1 — 2026-07-29
+- Update how accounts and profiles deletions are handled in the client, ensuring admin actions are handled (dc30f09)
+
 ## v1.2.0 — 2026-07-28
 - Update how marking random episodes of a show is handled, useful for watching something like a game show out of order (ec9686d)
 - Remove the hard-coded services constants and instead retrieve them from the service layer (a0071b9)
