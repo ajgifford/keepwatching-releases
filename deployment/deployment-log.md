@@ -191,3 +191,4 @@ tied to any individual historical deploy above):
 | 2026-07-23 10:22 PM | v1.2.0 | v1.2.0 | a27fdca98332e8a95b5acaab0f4267b185f671da | 2026-07-23 | main | ajgifford | deploy | 0.18.0 | 0.27.0 |  |
 | 2026-07-28 05:47 PM | v1.3.0 | v1.3.0 | cc08e905412f5e31b755bd36a9f1906e68b1df05 | 2026-07-27 | main | ajgifford | deploy | 0.21.0 | 0.30.0 |  |
 | 2026-07-29 06:53 PM | v1.4.0 | v1.4.0 | 3ed06f1f944b79f78e71f036d94b62e149be179c | 2026-07-29 | main | ajgifford | deploy | 0.23.0 | 0.32.0 |  |
+| 2026-07-29 09:00 PM | v1.4.1 | v1.4.1 | bf6696ea6fd7a82946540e042a8ae7a2619b3e13 | 2026-07-29 | main | ajgifford | deploy | 0.24.0 | 0.32.1 |  |

@@ -1,5 +1,9 @@
 # Admin Server Release Notes
 
+## v1.4.1 — 2026-07-29
+- v1.4.1 (bf6696e)
+- Correct workflow bugs regarding email counts, job status and archiving daily performance data (037523d)
+
 ## v1.4.0 — 2026-07-29
 - Add routes and controller to view account and profile activity and for managing deletions (3ed06f1)
 
