@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.3.0 — 2026-07-29
+- Update to support sending account and profile data for auditing (580356b)
+
 ## v1.2.0 — 2026-07-28
 - Update dependencies to support new preference type for watch tracking (99f1764)
 - Add routes and controller for retrieving streaming service information (a9beb3f)
