@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.3.0 — 2026-07-30
+- Add UI to allow users to log notes about seasons and episodes (bb32ff2)
+
 ## v1.2.1 — 2026-07-29
 - Update how accounts and profiles deletions are handled in the client, ensuring admin actions are handled (dc30f09)
 
