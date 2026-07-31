@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.3.1 — 2026-07-31
+- Update the statistics controls to allow passing custom dates for rewatch and watch list stats (3ca1f54)
+
 ## v1.3.0 — 2026-07-30
 - Add UI to allow users to log notes about seasons and episodes (bb32ff2)
 
