@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.4.0 — 2026-07-30
+- Add routes and controllers for managing user notes for seasons and episodes (2059b50)
+
 ## v1.3.0 — 2026-07-29
 - Update to support sending account and profile data for auditing (580356b)
 
