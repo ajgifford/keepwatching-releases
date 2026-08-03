@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.3.2 — 2026-08-03
+- Correct the sizing of the recap dialog for small screens (a9bd403)
+
 ## v1.3.1 — 2026-07-31
 - Update the statistics controls to allow passing custom dates for rewatch and watch list stats (3ca1f54)
 
