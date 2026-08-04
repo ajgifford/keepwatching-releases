@@ -77,6 +77,7 @@ tied to any individual historical deploy above):
 | 2026-07-30 08:12 PM | v1.3.0 | v1.3.0 | bb32ff26119d71340c10de5cf69932885b1d1ddd | 2026-07-30 | main | ajgifford | deploy | 0.25.0 | 0.8.0 |  |
 | 2026-07-31 06:51 PM | v1.3.1 | v1.3.1 | 3ca1f54bdbfc66e14a3732f4aab4402ef50c3f11 | 2026-07-31 | main | ajgifford | deploy | 0.25.0 | 0.8.0 |  |
 | 2026-08-03 10:28 AM | v1.3.2 | v1.3.2 | a9bd40399723dfe09b22e89e696cfabd97c165ae | 2026-08-03 | main | ajgifford | deploy | 0.25.0 | 0.8.0 |  |
+| 2026-08-04 05:08 PM | v1.4.0 | v1.4.0 | 42d21c8d39f8b6e0cdc35f2edf7209d65aebdb78 | 2026-08-03 | main | ajgifford | deploy | 0.26.0 | 0.8.0 |  |
 
 ## Admin Dashboard
 

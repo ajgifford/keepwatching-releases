@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.4.0 — 2026-08-04
+- Update the Discover page to include a personalized recommendations tab 'For You' showing content based on the profiles own favorited and starred content (42d21c8)
+
 ## v1.3.2 — 2026-08-03
 - Correct the sizing of the recap dialog for small screens (a9bd403)
 
