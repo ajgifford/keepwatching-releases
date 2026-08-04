@@ -1,5 +1,8 @@
 # Admin Server Release Notes
 
+## v1.5.0 — 2026-08-03
+- Update the jobs controller to include the new forYouRecommendations job (4a64ce7)
+
 ## v1.4.1 — 2026-07-29
 - v1.4.1 (bf6696e)
 - Correct workflow bugs regarding email counts, job status and archiving daily performance data (037523d)
