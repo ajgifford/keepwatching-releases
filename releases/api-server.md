@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.5.0 — 2026-08-03
+- Add new routes and a controller for the personalized recommendations for a profile endpoint (ca75b19)
+
 ## v1.4.1 — 2026-07-31
 - Update stats controllers to handle custom date ranges for rewatch and watch list stats (23bf08e)
 
