@@ -1,5 +1,9 @@
 # Admin Dashboard Release Notes
 
+## v1.5.0 — 2026-08-04
+- Update yarn.lock for dependency changes (2150753)
+- Update the jobs page to include the new forYouRecommendations job (c112fa2)
+
 ## v1.4.1 — 2026-07-29
 - Correct bugs for paused jobs, email counts and the wrong people update API (31134e3)
 - Add a page for displaying account and profile activity regarding creation and deletion (a9c283e)
