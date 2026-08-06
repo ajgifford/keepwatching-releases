@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.5.1 — 2026-08-05
+- Update version of common-server to correct a bug with profile creation auditing (148bf86)
+
 ## v1.5.0 — 2026-08-03
 - Add new routes and a controller for the personalized recommendations for a profile endpoint (ca75b19)
 
