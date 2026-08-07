@@ -1,5 +1,10 @@
 # Client Release Notes
 
+## v1.4.1 — 2026-08-06
+- Update build settings to ignore screenshot assets (c26067c)
+- Update the landing page to include trending content and screenshots (f6f2554)
+- Add the google signup/login button to the register page (30a6392)
+
 ## v1.4.0 — 2026-08-04
 - Update the Discover page to include a personalized recommendations tab 'For You' showing content based on the profiles own favorited and starred content (42d21c8)
 
