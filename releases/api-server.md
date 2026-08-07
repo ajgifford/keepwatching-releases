@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.5.2 — 2026-08-06
+- Add a router to serve up trending content for the landing page (70d5c98)
+
 ## v1.5.1 — 2026-08-05
 - Update version of common-server to correct a bug with profile creation auditing (148bf86)
 
