@@ -1,5 +1,9 @@
 # Client Release Notes
 
+## v1.5.0 — 2026-08-09
+- v1.5.0 (30f48c5)
+- Update to incorporate an onboarding checklist for new accounts (9132ba4)
+
 ## v1.4.1 — 2026-08-06
 - Update build settings to ignore screenshot assets (c26067c)
 - Update the landing page to include trending content and screenshots (f6f2554)
