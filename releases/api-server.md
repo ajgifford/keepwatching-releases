@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.6.0 — 2026-08-09
+- Add controller and routes for onboarding tasks (09d2164)
+
 ## v1.5.2 — 2026-08-06
 - Add a router to serve up trending content for the landing page (70d5c98)
 
