@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.5.2 — 2026-08-10
+- Resolve an issue with reopening the app being stuck in loading (d545823)
+
 ## v1.5.1 — 2026-08-10
 - Allow the user to switch to a new profile on creation and trigger the checklist (602527c)
 
