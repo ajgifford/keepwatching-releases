@@ -1,5 +1,8 @@
 # Admin Dashboard Release Notes
 
+## v1.5.1 — 2026-08-10
+- Update the account activity page to not link to deleted accounts (1eb8c1c)
+
 ## v1.5.0 — 2026-08-04
 - Update yarn.lock for dependency changes (2150753)
 - Update the jobs page to include the new forYouRecommendations job (c112fa2)
