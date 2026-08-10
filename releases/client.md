@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.5.1 — 2026-08-10
+- Allow the user to switch to a new profile on creation and trigger the checklist (602527c)
+
 ## v1.5.0 — 2026-08-09
 - v1.5.0 (30f48c5)
 - Update to incorporate an onboarding checklist for new accounts (9132ba4)
