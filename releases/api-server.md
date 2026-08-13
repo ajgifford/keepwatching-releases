@@ -1,5 +1,8 @@
 # API Server Release Notes
 
+## v1.7.0 — 2026-08-13
+- Update dependencies to incorporate streaming service preferences (5cee3c8)
+
 ## v1.6.0 — 2026-08-09
 - Add controller and routes for onboarding tasks (09d2164)
 
