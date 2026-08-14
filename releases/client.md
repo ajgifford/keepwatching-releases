@@ -1,5 +1,8 @@
 # Client Release Notes
 
+## v1.6.1 — 2026-08-14
+- Correct the appearance of a page reload when marking a show as watched from the home page (61ac0db)
+
 ## v1.6.0 — 2026-08-13
 - Add better fault handling to the streaming service loader (7938c21)
 - Update the preferences UI to include preferred streaming services, update show and movie favorites to indicate if that content is shown on a preferred service (2a5b684)

@@ -83,6 +83,7 @@ tied to any individual historical deploy above):
 | 2026-08-10 11:55 AM | v1.5.1 | v1.5.1 | 602527c039571fd99b04cb239ddf08dc562dcbd9 | 2026-08-10 | main | ajgifford | deploy | 0.27.0 | 0.8.0 |  |
 | 2026-08-10 04:45 PM | v1.5.2 | v1.5.2 | d545823a279e93b5de3b90082b3e14bd894fc596 | 2026-08-10 | main | ajgifford | deploy | 0.27.0 | 0.8.0 |  |
 | 2026-08-13 08:10 PM | v1.6.0 | v1.6.0 | 7938c21c306e161fc326239eaec45c420d5a4c3a | 2026-08-13 | main | ajgifford | deploy | 0.28.0 | 0.8.1 |  |
+| 2026-08-14 04:48 PM | v1.6.1 | v1.6.1 | 61ac0dbb959437e823f9a0367e77222c2996cc11 | 2026-08-14 | main | ajgifford | deploy | 0.28.0 | 0.8.1 |  |
 
 ## Admin Dashboard
 
